@@ -1,0 +1,1 @@
+# chore-update-base-config-structure
